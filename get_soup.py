@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 """
 This script downloads as much of a soup.io page as you want. Either by giving
 a limit or because the soup is done.
